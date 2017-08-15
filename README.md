@@ -3,7 +3,11 @@ LeetCode刷题记录
 
 | Index | Title | Solution|
 |-------|-------|---------|
-| 22 | [Generate Parentheses](https://leetcode.com/problems/generate-parentheses/#/discuss) | [js](./js/generate-parentheses.js)
+| 26 | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/description/) | [js](./js/remove-duplicates-from-sorted-array.js)
+| 25 | [Reverse Nodes in k-Group](https://leetcode.com/problems/reverse-nodes-in-k-group/description/) | [js](./js/reverse-nodes-in-k-group.js)
+| 24 | [Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/description/) | [js](./js/swap-nodes-in-pairs.js)
+| 23 | [Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/description/) | [js](./js/merge-k-sorted-lists.js)
+| 22 | [Generate Parentheses](https://leetcode.com/problems/generate-parentheses/description/) | [js](./js/generate-parentheses.js)
 | 21 | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/#/description) | [js](./js/merge-two-sorted-lists.js)
 | 20 | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/#/description) | [js](./js/valid-parentheses.js)
 | 19 | [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/#/description) | [js](./js/remove-nth-node-from-end-of-list.js)
