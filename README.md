@@ -3,6 +3,9 @@ LeetCode刷题记录
 
 | Index | Title | Solution|
 |-------|-------|---------|
+| 30 | [Substring with Concatenation of All Words](https://leetcode.com/problems/substring-with-concatenation-of-all-words/description/) | [js](./js/substring-with-concatenation-of-all-words.js)
+| 28 | [Implement strStr()](https://leetcode.com/problems/implement-strstr/description/) | [js](./js/implement-strstr.js)
+| 27 | [Remove Element](https://leetcode.com/problems/remove-element/description/) | [js](./js/remove-element.js)
 | 26 | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/description/) | [js](./js/remove-duplicates-from-sorted-array.js)
 | 25 | [Reverse Nodes in k-Group](https://leetcode.com/problems/reverse-nodes-in-k-group/description/) | [js](./js/reverse-nodes-in-k-group.js)
 | 24 | [Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/description/) | [js](./js/swap-nodes-in-pairs.js)
